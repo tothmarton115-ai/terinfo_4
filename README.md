@@ -1,3 +1,4 @@
-# terinfo_4 térinfó beadandó második comment.
+# terinfo_4 beadandó 
+- második comment.
 - felsorolási pont
 - második felsorolási pont
