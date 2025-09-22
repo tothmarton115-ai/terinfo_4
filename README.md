@@ -1,1 +1,1 @@
-# terinfo_4
+# terinfo_4 beadandó feladat.
